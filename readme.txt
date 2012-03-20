@@ -18,3 +18,4 @@ truc
 
 github
 git remote add origin git@github.com:Djeremai/Essai.git
+git clone hit@github.com:MyriaDeis/projet..._.git
