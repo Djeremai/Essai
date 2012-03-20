@@ -15,7 +15,15 @@ git branch new
 git checkout new
 git merge nouveaute
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 Houston, tu me reçois?
 >>>>>>> d622c34c1c8b1d5f72695d8ea6da7f3709fb0485
+=======
+truc
+
+github
+git remote add origin git@github.com:Djeremai/Essai.git
+git clone hit@github.com:MyriaDeis/projet..._.git
+>>>>>>> nouveaute
