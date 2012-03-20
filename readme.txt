@@ -14,3 +14,5 @@ git commit -m "C1"
 git branch new
 git checkout new
 git merge nouveaute
+
+Houston, tu me reçois?
