@@ -14,3 +14,8 @@ git commit -m "C1"
 git branch new
 git checkout new
 git merge nouveaute
+<<<<<<< HEAD
+=======
+
+Houston, tu me reçois?
+>>>>>>> d622c34c1c8b1d5f72695d8ea6da7f3709fb0485
