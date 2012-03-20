@@ -15,3 +15,6 @@ git branch new
 git checkout new
 git merge nouveaute
 truc
+
+github
+git remote add origin git@github.com:Djeremai/Essai.git
